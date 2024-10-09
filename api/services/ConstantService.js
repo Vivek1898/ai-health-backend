@@ -71,30 +71,6 @@ module.exports = {
 
     responseMessage: {
 
-        //Staff Management Controller
-        STAFF_EMAIL_ALREADY_REGISTERED: 'Staff\'s email already registered!',
-        STAFF_CONTACT_NUMBER_ALREADY_REGISTERED: 'Staff contact number already registered!',
-        STAFF_ADDED_SUCCESS: 'Staff has been added successfully.',
-        ERR_MSG_ISSUE_IN_ADD_STAFF_API: 'Oops! Something went wrong in add staff api!',
-        STAFF_NOT_FOUND: 'No staff found with this id! Is the staff deleted?',
-        STAFF_EDIT_SUCCESS: 'Staff has been updated successfully.',
-        STAFF_DELETE_SUCCESS: 'Staff has been deleted successfully.',
-        STAFF_COLUMN_UPDATED: 'Staff columns for product list has been updated successfully.',
-        PASSWORD_CHANGE_SUCCESS: 'Password has been changed successfully.',
-        ERR_MSG_ISSUE_IN_RESET_PASSWORD_STAFF_API: 'Oops! Something went wrong in reset password staff api!',
-        STAFF_LIST: 'Staff list',
-
-        //Staff Session Controller
-        ERR_MSG_WRONG_CREDENTIALS_API: 'Email or password is wrong.',
-        LOG_IN_SUCCESS: "Logged in successfully!",
-        ERR_MSG_ISSUE_IN_STAFF_LOGIN_API: 'Oops! Something went wrong in staff login api!',
-        ERR_MSG_ISSUE_IN_STAFF_LOGOUT_API: 'Oops! Something went wrong in admin logout api!',
-        LOG_OUT_SUCCESS: "You are logged out!",
-        PASSWORD_RESET_KEY_NOT_VALID: "The password reset link is no longer valid. Please request another password reset email from the login page.",
-        PASSWORD_CREATE_KEY_NOT_VALID: "The password create link is no longer valid. Please request a password reset email from the login page.",
-
-
-
         //User Management Controller
         USER_REGISTERED_SUCCESS: 'User has been registered successfully.',
         USER_EMAIL_ALREADY_REGISTERED : 'User email already registered!',
